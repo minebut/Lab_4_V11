@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_Butok", "Lab4_Butok\Lab4_Butok.csproj", "{9946351F-8315-4514-AA6E-2FF8358E64B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9946351F-8315-4514-AA6E-2FF8358E64B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9946351F-8315-4514-AA6E-2FF8358E64B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9946351F-8315-4514-AA6E-2FF8358E64B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9946351F-8315-4514-AA6E-2FF8358E64B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAABE4A-2C75-4321-854C-9C3DFD409774}
+	EndGlobalSection
+EndGlobal
